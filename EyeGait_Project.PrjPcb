@@ -66,23 +66,78 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PBTZDUVY
 
+[Document2]
+DocumentPath=Sensors&Actuators.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XULKZYDR
+
+[Document3]
+DocumentPath=MCU.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JAKLNMKX
+
+[Document4]
+DocumentPath=Power.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EMLSPXZC
+
 [Parameter1]
+Name=TotalSheet
+Value=4
+
+[Parameter2]
 Name=VersionRevision
 Value=1
 
-[Parameter2]
+[Parameter3]
 Name=Project
 Value=EyeGait
 
-[Parameter3]
+[Parameter4]
 Name=Engineer
 Value=Alvaro Montesano & Javier Arroyos
 
-[Parameter4]
+[Parameter5]
 Name=E-mail
 Value=a.montesano@alumnos.upm.es & javier.arroyos@alumnos.upm.es
 
-[Parameter5]
+[Parameter6]
 Name=DrawnBy
 Value=Alvaro Montesano & Javier Arroyos
 
