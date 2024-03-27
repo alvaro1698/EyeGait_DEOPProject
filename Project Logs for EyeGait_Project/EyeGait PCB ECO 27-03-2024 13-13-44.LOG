@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NetBT1_1 Pin=BT1-1
+Removed Pin From Net: NetName=VDDR Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=VDDR Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=VDDR Pin=L1-2
+Removed Pin From Net: NetName=+4V4 Pin=SW1-1
+Removed Pin From Net: NetName=+3V3 Pin=U1-12
+Removed Member From Class: ClassName=MCU Member=C10
+Removed Member From Class: ClassName=MCU Member=C11
+Removed Member From Class: ClassName=MCU Member=L1
+Added Pin To Net: NetName=VDDS Pin=C8-1
+Added Pin To Net: NetName=NetBT1_1 Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=U1-12
+Added Pin To Net: NetName=+4V4 Pin=U4-3
+Change Net Name : Old Net Name=+4V4 New Net Name=NetC19_1
+Change Net Name : Old Net Name=NetBT1_1 New Net Name=BAT
+Added Pin To Net: NetName=NetBT1_1 Pin=BT1-1
+Added Pin To Net: NetName=NetBT1_1 Pin=SW1-1
+Added Net: Name=NetBT1_1
